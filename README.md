@@ -23,7 +23,8 @@ This repository contains a collection of interactive dashboards and Excel-based 
 
 ### ✅ Available Projects
 
-- 📞 [Call Centre Dashboard Report](./Call Centre Dashboard Report)
+- 📞 [Call Centre Dashboard Report](./Call%20Centre%20Dashboard%20Report)
+
 
   *(includes data, dashboard file, and screenshots)*  
 
