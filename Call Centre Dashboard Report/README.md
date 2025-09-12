@@ -6,7 +6,8 @@ Built using **Pivot Tables, Charts, and Slicers** with a clean, minimal design f
 ---
 
 ## 🔎 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](Screenshots/Call%20Centre%20Dashboard%20Report.png)
+)
 
 *(Full interactive version available in the Excel file)*
 
