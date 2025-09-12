@@ -1,4 +1,4 @@
-# 📊 Call Centre Dashboard – 2023
+# 📊 Call Centre Dashboard 
 
 An interactive Excel dashboard designed to analyze call centre performance across **representatives, locations, and customer satisfaction metrics**.  
 Built using **Pivot Tables, Charts, and Slicers** with a clean, minimal design for professional reporting.
@@ -24,4 +24,17 @@ Built using **Pivot Tables, Charts, and Slicers** with a clean, minimal design f
 ---
 
 ## 📂 Repository Structure
+Call Centre Dashboard Report
+│── dashboard.xlsx         # Interactive Excel dashboard
+│── README.md              # Project documentation
+│── screenshots/
+│    └── dashboard.png     # Static preview image of dashboard
+
+
+## 🛠 Tools & Skills Demonstrated
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Slicers for interactivity  
+- Dashboard design & layout best practices  
+- Data visualization and storytelling 
 
