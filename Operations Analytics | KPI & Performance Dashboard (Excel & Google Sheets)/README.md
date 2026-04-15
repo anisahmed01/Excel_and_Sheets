@@ -1,4 +1,5 @@
-# 📊 Customer Operations Analytics: Service Level & KPI Tracking
+# 📊 Operations Analytics | KPI & Performance Dashboard (Excel & Google Sheets)
+
 
 An interactive Excel dashboard designed to analyze call centre performance across **representatives, locations, and customer satisfaction metrics**.  
 Built using **Pivot Tables, Charts, and Slicers** with a clean, minimal design for professional reporting.
